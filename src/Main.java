@@ -6,6 +6,13 @@ public class Main {
         Mounstruo sully = new Mounstruo("solly",1.98,
                 79.85,true,false,
                 "azul",new ArrayList<>(Arrays.asList("fuerza","velocidad","espantar")));
+
+        Kid boo = new Kid("boo",0.50,20.0,"blanca con flores rosas");
+        sully.espantar();
+        boo.llorar();
+
+
     }
-    Kid boo = new Kid("boo",0.50,20.0,"blanca con flores rosas");
+
+
 }

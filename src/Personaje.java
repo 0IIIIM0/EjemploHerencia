@@ -27,7 +27,7 @@ public class Personaje { //clase padre quien hereda
         this.nombre = nombre;
         this.estatura = estatura;
         this.peso = peso;
-        System.out.println("eeste es el constructor padre");
+        System.out.println("este es el constructor padre");
 
     }
 
