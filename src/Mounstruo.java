@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 
-public class Mounstruo {
-    public class Mounstruo extends Personaje{
+public class Mounstruo extends Personaje {
         //tieneCUernos 
         //tieneTentaculos
         // colores
@@ -74,4 +73,4 @@ public class Mounstruo {
     }
     
     
-}
+
